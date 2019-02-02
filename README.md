@@ -30,7 +30,8 @@ first install dependencies
 5. you can change the image . Just open the python file in any code editor and give path of your **png** image
 6. you  are done . Run the script again using above steps
 
-
+## RESULTED IMAGE
+![alt text](https://github.com/singhbir/WordCloud_Python/blob/master/screen1.PNG)
 
 
 
