@@ -31,6 +31,9 @@ first install dependencies
 6. you  are done . Run the script again using above steps
 
 ## RESULTED IMAGE
+### Converting This image 
+![alt text](https://github.com/singhbir/WordCloud_Python/blob/master/use_img.png)
+### After Conversion
 ![alt text](https://github.com/singhbir/WordCloud_Python/blob/master/screen1.PNG)
 
 
